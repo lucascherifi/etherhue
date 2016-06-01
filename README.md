@@ -15,17 +15,17 @@ I.e. :
 {
   "krakenKeys": [
     {
-      "key": "FILL-IT", // The kraken API key
-      "secret": "FILL-IT" // The kraken API secret
+      "key": "FILL-IT", /* The kraken API key */
+      "secret": "FILL-IT" /* The kraken API secret */
     }
   ],
-  "timer": 3, // The refresh timer
-  "engaged": 450, // The engaged amount
-  "lightName": "My beside lamp", // The lamp name
-  "colorBound": 2, // If the rate falls from 2 euros or more, it goes to the straight red, if it rises from 2 euros or more, it goes to the straight green. Between, it shade.
+  "timer": 3, /* The refresh timer */
+  "engaged": 450, /* The engaged amount */
+  "lightName": "My beside lamp", /* The lamp name */
+  "colorBound": 2, /* If the rate falls from 2 euros or more, it goes to the straight red, if it rises from 2 euros or more, it goes to the straight green. Between, it shade */
   "lightsEnabled": true,
-  "phueIp": "FILL-IT", // The phillips hue bridge IP
-  "phueKey": "FILL-IT", // The phillips hue username
-  "KrakenCurrency": "ZEUR" // The kraken currency code (see Kraken API for more)
+  "phueIp": "FILL-IT", /* The phillips hue bridge IP */
+  "phueKey": "FILL-IT", /* The phillips hue username */
+  "KrakenCurrency": "ZEUR" /* The kraken currency code (see Kraken API for more) */
 }
 ```
