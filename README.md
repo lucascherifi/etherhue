@@ -11,7 +11,7 @@ I.e. :
 
 ## Options
 
-```json
+```javascript
 {
   "krakenKeys": [
     {
