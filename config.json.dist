@@ -1,0 +1,16 @@
+{
+  "krakenKeys": [
+    {
+      "key": "FILL-IT",
+      "secret": "FILL-IT"
+    }
+  ],
+  "timer": 3,
+  "engaged": 450,
+  "lightName": "Lampe de chevet",
+  "colorBound": 2,
+  "lightsEnabled": false,
+  "phueIp": "FILL-IT",
+  "phueKey": "FILL-IT",
+  "KrakenCurrency": "ZEUR"
+}

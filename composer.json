@@ -1,0 +1,14 @@
+{
+    "name": "lucascherifi/etherhue",
+    "autoload": {
+        "psr-4": {
+            "Kasifi\\Etherhue\\": "src"
+        }
+    },
+    "require": {
+        "symfony/var-dumper": "^3.0",
+        "symfony/console": "^3.0",
+        "symfony/finder": "^3.0",
+        "sqmk/phue": "^1.4",
+    }
+}
