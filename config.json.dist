@@ -9,7 +9,7 @@
   "engaged": 450,
   "lightName": "My beside lamp",
   "colorBound": 2,
-  "lightsEnabled": false,
+  "lightsEnabled": true,
   "phueIp": "FILL-IT",
   "phueKey": "FILL-IT",
   "KrakenCurrency": "ZEUR"
